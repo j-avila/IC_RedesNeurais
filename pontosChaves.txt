@@ -1,0 +1,4 @@
+1- descida gradiente
+2- backpropagation
+3- attenção (atencion is all you need)
+4- matriz de pesos (rosenblatt)
